@@ -1,1 +1,0 @@
-# QuickCart-Stockout-Risk-Predictor
